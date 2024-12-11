@@ -1,6 +1,6 @@
 arr = [1, 2, 5, 7, 8, 9, 11, 22, 55]
 
-f = 22
+f = 2
 
 def bin_search(t, array):
     div = 2
